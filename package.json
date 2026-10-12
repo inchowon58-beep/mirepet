@@ -1,0 +1,9 @@
+{
+  "name": "mirpet",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "start": "node scripts/serve.js"
+  }
+}

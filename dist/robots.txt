@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mirepet.puppytimes.co.kr/sitemap.xml
